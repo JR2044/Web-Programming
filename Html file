@@ -1,6 +1,9 @@
 <!DOCTYPE HTML>
 <html>
-<body>
-<h1>This is your html file</h1>
-</body>
+  <head>
+      <Title> Pong Style Game </Title>
+    <body style="Background-color: White">
+<img src="Arc Curve.png" alt="Paddle One">
+    
+  </head>
 </html>
